@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Add config.py
+config.py
+
 # Add .DS_Store
 .DS_Store
 
