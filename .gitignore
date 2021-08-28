@@ -3,6 +3,9 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+# Add Raw_Data.ipynb
+Raw_data.ipynb
+
 # Add config.py
 config.py
 
